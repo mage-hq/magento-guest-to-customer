@@ -1,5 +1,5 @@
 # magento-guest-to-customer
-Magento 2 Guest to Customer is an extension that assists the eCommerce site in converting guests into registered customers after completing the payment.
+Magento 2 Guest to Customer extension that helps the eCommerce site to turn guests into registered customers after finishing the payment
 
 Please go to https://magehq.com/guest-to-customer.html buy extension
 
